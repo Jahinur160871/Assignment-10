@@ -1,0 +1,32 @@
+.next:It contains the compiled output of our Next.js application, 
+including assets, pages, and other artifacts.
+
+app:This file typically represents the root component of our Next.js 
+application.
+
+node_modules: This is where all the installed dependencies are stored. 
+They are automatically managed by npm
+
+public: This folder is used for static assets like images, fonts, and 
+other files that will be publicly accessible. You can place your images
+ or other static files here.
+
+.gitignor: The .gitignore file specifies files and directories that should be 
+ignored by Git version control. 
+
+jsconfig.json: The jsconfig.json file is used to configure the JavaScript 
+environment for our project.
+
+next.config.js:The next.config.js file is used to configure various
+settings for our Next.js application. It allows you to customize 
+behaviors like webpack configuration, environment variables, and more.
+
+package-lock.json: It locks down the specific versions of dependencies 
+that our project uses, ensuring consistent builds across different
+ environments.
+
+package.json`: This file contains the project configuration details, 
+including the dependencies required for our Next.js app.
+
+README.md`: A markdown file that provides brief documentation about our
+project.
